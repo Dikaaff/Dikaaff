@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on web development projects, especially in Next.js, TypeScript, and backend integration.<br><br>🤝 I’m looking for help with optimizing API performance and implementing advanced interactive UI elements.<br><br>🌱 I’m currently learning Next.js 15, AI-powered APIs, and full-stack scalability best practices.<br><br>💬 Ask me about Full Stack Development, Next.js, TypeScript, backend integration, and building scalable web apps.<br><br>⚡ Fun fact I love optimizing code for both performance and user experience—clean code and smooth UX are my priorities! 🚀
+I’m UI/UX Designer | Frontend Developer 
 
 
 ## 🌐 Socials:
