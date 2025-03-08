@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m UI/UX Designer | Frontend Developer 
+I’m UI/UX Designer | Learn Fullstack Developer 
 
 
 ## 🌐 Socials:
